@@ -12,3 +12,5 @@ Submitted to the Department of Industrial Engineering in partial fulﬁllment of
 Industrial Engineering\
 Boğaziçi University\
 2020
+
+#### Address, Distance and Duration matrices used in the project can be reached through this page.
